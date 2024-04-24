@@ -1,0 +1,10 @@
+[
+    {
+        "file": "test.txt",
+        "action": "NOTIFY"
+    },
+    {
+        "file": "example.txt",
+        "action": "ACCESS_DENIED"
+    }
+]
